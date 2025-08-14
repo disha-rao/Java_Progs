@@ -12,6 +12,6 @@ This repo is mainly for:
 - Helping me (and maybe others) revise quickly before exams 😉
 
 ---
-✏️ Notes
+# ✏️ Notes
 All programs are tested before uploading.
 This repo will be updated regularly with new programs.
