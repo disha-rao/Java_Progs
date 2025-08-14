@@ -13,5 +13,5 @@ This repo is mainly for:
 
 ---
 # ✏️ Notes
-All programs are tested before uploading.
-This repo will be updated regularly with new programs.
+- All programs are tested before uploading.
+- This repo will be updated regularly with new programs.
