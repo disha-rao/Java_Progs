@@ -1,3 +1,5 @@
+Name:Disha S Rao
+USN:NNM24IS076
 # Java_Progs
 
 Welcome to **Java Progs** — a collection of Java programs I create and execute during my college lab practicals.  
